@@ -6,4 +6,4 @@ When you are in a rush or are not familiar with web development, https://lnkd.in
 It provides you with various different website templates to download to your code editor and fill out. Simple, fast, and fun!
 
 This is the first website I hosted and I thoroghly enjoyed learning how. Can't wait to upload more ! 
-Check it out: https://condescending-bartik-2e71c2.netlify.app/
+Check it out: https://hazal.netlify.app
